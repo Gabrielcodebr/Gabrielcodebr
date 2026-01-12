@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC e estou buscando me tornar um desenvolvedor Full Stack. Atualmente, estou focado em aprimorar meus conhecimentos em banco de dados PostgreSQL.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) na FATEC e estou buscando me tornar um desenvolvedor Full Stack. Atualmente, estou focado em aprimorar meus conhecimentos em banco de dados PostgreSQL.
 
 - 🔭 Meu projeto mais recente é o [**Portfolio do Escritório de Projetos da FATEC de Itu - NexusJr**](https://github.com/Gabrielcodebr/portfolio-nexus)
 - 🌱 Estou aprendendo mais sobre **PostgreSQL** e melhorando minhas habilidades em **Next.js**.
